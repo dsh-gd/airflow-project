@@ -1,7 +1,7 @@
 # Airflow capstone project
 
 ## How to run this project:
-- `git clone https://github.com/gridu/AIRFLOW-Dmytro-Shurko`
+- `git clone https://github.com/dsh-gd/airflow-project`
 - Allocate enough memory for the Docker (e.g. 4 GB). (Settings → Resources → Memory)
 - `docker-compose up --build`
 - Start the Docker container (if it is not running)
